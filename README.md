@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, and welcome to my Github! 👋
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark)
