@@ -16,7 +16,7 @@
 
 <h2 align="center">Frameworks</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/%20NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/.NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff">
