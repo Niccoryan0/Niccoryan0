@@ -1,31 +1,6 @@
 ### Hello, and welcome to my Github! 👋
 
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark)
-
-```js
-public class Nicco()
-{
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    "software", "tech", "rocks",
-    "geology", "hiking"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react", "jquery"],
-      csharp: ["razor pages", "mvc", "xamarin.forms"],
-      css: ["materialUI", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      csharp: ["asp.net core"],
-      python: ["django"]
-    },
-    databases: ["sql", "postgres", "mongo"]
-  },
-});
-```
 
 ### Languages
 
@@ -60,5 +35,3 @@ public class Nicco()
   <img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas%20-%23150458?style=flat&logo=pandas&logoColor=white">
 </p>
-
-### Misc.
