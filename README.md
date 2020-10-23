@@ -50,7 +50,6 @@ public class Nicco()
 <p align="center">
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -58,6 +57,8 @@ public class Nicco()
   <img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?style=flat&logo=azure-devops&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas%20-%23150458?style=flat&logo=pandas&logoColor=white">
 </p>
 
 ### Misc.
