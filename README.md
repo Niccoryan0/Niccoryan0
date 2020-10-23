@@ -14,13 +14,13 @@ public class Nicco()
   technologies: {
     frontEnd: {
       js: ["react", "jquery"],
-      csharp: ["razor pages", "mvc", "xamarin.forms"]
+      csharp: ["razor pages", "mvc", "xamarin.forms"],
       css: ["materialUI", "bootstrap"]
     },
     backEnd: {
       js: ["node", "express"],
       csharp: ["asp.net core"],
-      python: ["django"],
+      python: ["django"]
     },
     databases: ["sql", "postgres", "mongo"]
   },
