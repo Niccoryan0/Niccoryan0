@@ -33,7 +33,7 @@
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?style=flat&logo=azure-devops&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=00c8ff">
+<!--   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=00c8ff"> -->
   <img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas%20-%23150458?style=flat&logo=pandas&logoColor=white">
 </p>
