@@ -15,7 +15,7 @@
 ### Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff">
