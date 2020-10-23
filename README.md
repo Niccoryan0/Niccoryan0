@@ -1,4 +1,5 @@
-<h1 align="center"> Hello, and welcome to my Github! 👋 </h1>
+<h1 align="center"> Nicco Ryan </h1>
+<h3 align="center"> Software Engineer </h3>
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark">
 </p>
