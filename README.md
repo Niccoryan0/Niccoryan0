@@ -4,7 +4,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark">
 </p>
 
-<h2 align="center">Language</h2>
+<h2 align="center">Languages</h2>
 
 <p align="center">
   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=white">
@@ -14,7 +14,7 @@
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
-<h2 align="center">Framework</h2>
+<h2 align="center">Frameworks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
