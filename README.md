@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, and welcome to my Github! 👋 </h1>
 <p align="center">
-![My github stats](https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark)
+<img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark">
 </p>
 
 <h2 align="center">Language</h2>
