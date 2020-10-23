@@ -3,17 +3,27 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark)
 
-<!--
-**Niccoryan0/Niccoryan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+public class Nicco()
+{
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "software", "tech", "rocks",
+    "geology", "hiking"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react", "jquery"],
+      csharp: ["razor pages", "mvc", "xamarin.forms"]
+      css: ["materialUI", "bootstrap"]
+    },
+    backEnd: {
+      js: ["node", "express"],
+      csharp: ["asp.net core"],
+      python: ["django"],
+    },
+    databases: ["sql", "postgres", "mongo"]
+  },
+});
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
