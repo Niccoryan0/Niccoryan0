@@ -1,4 +1,3 @@
-<h1 align="center"> Nicco Ryan </h1>
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark"><br>
 <a target="_blank" href="https://www.codewars.com/users/Niccoryan0"><img src="https://www.codewars.com/users/Niccoryan0/badges/large" alt="codewars badge" /></a>
