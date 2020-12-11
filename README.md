@@ -1,5 +1,7 @@
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark"><br>
+  <a href="#"> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=niccoryan0&show_icons=true&theme=onedark"><br>
+  </a>
   <a target="_blank" href="https://www.codewars.com/users/Niccoryan0"><img src="https://www.codewars.com/users/Niccoryan0/badges/large" alt="codewars badge" /></a>
 </p>
 
@@ -15,7 +17,7 @@
 
 <h2 align="center">Frameworks</h2>
 <p align="center">
-  <a>
+  <a href="#">
     <img src="https://img.shields.io/badge/.NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff">
   </a>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
